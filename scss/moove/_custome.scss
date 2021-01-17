@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: 900;
+  src: url([[font:theme|IRANSansWebFaNum_Black.eot]]);
+  src: url([[font:theme|IRANSansWebFaNum_Black.eot]]) format('embedded-opentype'),  /* IE6-8 */
+  url([[font:theme|IRANSansWebFaNum_Black.woff2]]) format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url([[font:theme|IRANSansWebFaNum_Black.woff]]) format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  url([[font:theme|IRANSansWebFaNum_Black.ttf]]) format('truetype');
+}
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: bold;
+  src: url([[font:theme|IRANSansWebFaNum_Bold.eot]]);
+  src: url([[font:theme|IRANSansWebFaNum_Bold.eot?#iefix]]) format('embedded-opentype'),  /* IE6-8 */
+  url([[font:theme|IRANSansWebFaNum_Bold.woff2]]) format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url([[font:theme|IRANSansWebFaNum_Bold.woff]]) format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  url([[font:theme|IRANSansWebFaNum_Bold.ttf]]) format('truetype');
+}
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url([[font:theme|IRANSansWebFaNum_Medium.eot]]);
+  src: url([[font:theme|IRANSansWebFaNum_Medium.eot?#iefix]]) format('embedded-opentype'),  /* IE6-8 */
+url([[font:theme|IRANSansWebFaNum_Medium.woff2]]) format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url([[font:theme|IRANSansWebFaNum_Medium.woff]]) format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+url([[font:theme|IRANSansWebFaNum_Medium.ttf]]) format('truetype');
+}
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: 300;
+  src: url([[font:theme|IRANSansWebFaNum_Light.eot]]);
+  src: url([[font:theme|IRANSansWebFaNum_Light.eot?#iefix]]) format('embedded-opentype'),  /* IE6-8 */
+url([[font:theme|IRANSansWebFaNum_Light.woff2]]) format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url([[font:theme|IRANSansWebFaNum_Light.woff]]) format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+url([[font:theme|IRANSansWebFaNum_Light.ttf]]) format('truetype');
+}
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: 200;
+  src: url([[font:theme|IRANSansWebFaNum_UltraLight.eot]]);
+  src: url([[font:theme|IRANSansWebFaNum_UltraLight.eot?#iefix]]) format('embedded-opentype'),  /* IE6-8 */
+  url([[font:theme|IRANSansWebFaNum_UltraLight.woff2]]) format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+  url([[font:theme|IRANSansWebFaNum_UltraLight.woff]]) format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  url([[font:theme|IRANSansWebFaNum_UltraLight.ttf]]) format('truetype');
+}
+@font-face {
+  font-family: 'IRANSans';
+  src: url([[font:theme|IRANSansWebFaNum.eot]]);
+  src: url([[font:theme|IRANSansWebFaNum.eot]]) format('embedded-opentype'),
+  url([[font:theme|IRANSansWebFaNum.woff]]) format('woff'),
+  url([[font:theme|IRANSansWebFaNum.woff2]]) format('woff2'),
+  url([[font:theme|IRANSansWebFaNum.ttf]]) format('truetype'),
+  url([[font:theme|IRANSansWebFaNum.svg]]) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'material-design-icons';
+  src: url([[font:theme|materialdesignicons-webfont.eot?v=5.9.55]]);
+  src: url([[font:theme|materialdesignicons-webfont.eot?#iefix&v=5.9.55]]) format('embedded-opentype'),
+  url([[font:theme|materialdesignicons-webfont.woff2?v=5.9.55]]) format('woff2'),
+  url([[font:theme|materialdesignicons-webfont.woff?v=5.9.55]]) format('woff'),
+  url([[font:theme|materialdesignicons-webfont.ttf?v=5.9.55]]) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
