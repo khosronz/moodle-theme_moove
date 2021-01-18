@@ -18,7 +18,7 @@
  * Custom moove admin infos
  *
  * @package    theme_moove
- * @copyright  2020 Willian Mano - http://conecti.me
+ * @copyright  2020 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -30,7 +30,7 @@ defined('MOODLE_INTERNAL') || die();
  * Class to get some admin infos in Moodle.
  *
  * @package    theme_moove
- * @copyright  2020 Willian Mano - http://conecti.me
+ * @copyright  2020 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class admininfos {

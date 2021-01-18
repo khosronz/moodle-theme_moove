@@ -18,7 +18,7 @@
  * Overriden course topics format renderer.
  *
  * @package    theme_moove
- * @copyright  2017 Willian Mano - http://conecti.me
+ * @copyright  2017 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -30,7 +30,7 @@ require_once($CFG->dirroot . '/course/format/topics/renderer.php');
  * Rewrite format topics renderer base class
  *
  * @package    theme_moove
- * @copyright  2017 Willian Mano - http://conecti.me
+ * @copyright  2017 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class theme_moove_format_topics_renderer extends format_topics_renderer {

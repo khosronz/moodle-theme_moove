@@ -17,7 +17,7 @@
  * Theme settings js logic.
  *
  * @package    theme_moove
- * @copyright  2020 Willian Mano - http://conecti.me
+ * @copyright  2020 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 define(['jquery', 'core/modal_factory', 'theme_moove/themesettings_modal'],

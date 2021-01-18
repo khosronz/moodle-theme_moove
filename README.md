@@ -19,7 +19,7 @@ You can see the theme documentation on: https://github.com/willianmano/moodle-th
 
 Developed and maintained by
 ===========================
-Willian Mano
+Khosro Nazari
  - Zend Certified PHP Engineer - ZEND028770
  - Certified Scrum Master - 000570341
  - iMasters Certified Professional - PHP - Good Practices - 1076

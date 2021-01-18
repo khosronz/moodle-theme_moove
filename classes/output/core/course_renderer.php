@@ -18,7 +18,7 @@
  * Course renderer.
  *
  * @package    theme_moove
- * @copyright  2017 Willian Mano - conecti.me
+ * @copyright  2017 Khosro Nazari - tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -38,7 +38,7 @@ use theme_moove\util\extras;
  * Renderers to align Moove's course elements to what is expect
  *
  * @package    theme_moove
- * @copyright  2017 Willian Mano - http://conecti.me
+ * @copyright  2017 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class course_renderer extends \core_course_renderer {

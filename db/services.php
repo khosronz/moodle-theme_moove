@@ -18,7 +18,7 @@
  * Theme moove functions and service definitions.
  *
  * @package   theme_moove
- * @copyright 2019 Willian Mano - http://conecti.me
+ * @copyright 2019 Khosro Nazari - https://tahsilyar.co
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

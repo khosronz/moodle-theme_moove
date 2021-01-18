@@ -18,7 +18,7 @@
  * Mustache helper to load a theme configuration.
  *
  * @package    theme_moove
- * @copyright  2017 Willian Mano - http://conecti.me
+ * @copyright  2017 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -33,7 +33,7 @@ defined('MOODLE_INTERNAL') || die();
  * Helper to load a theme configuration.
  *
  * @package    theme_moove
- * @copyright  2017 Willian Mano - http://conecti.me
+ * @copyright  2017 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class theme_settings {

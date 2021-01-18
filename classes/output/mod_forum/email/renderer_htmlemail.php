@@ -18,7 +18,7 @@
  * Overriden forum email template.
  *
  * @package    theme_moove
- * @copyright  2018 Willian Mano - http://conecti.me
+ * @copyright  2018 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

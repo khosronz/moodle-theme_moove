@@ -18,7 +18,7 @@
  * Theme Moove block settings file
  *
  * @package    theme_moove
- * @copyright  2017 Willian Mano http://conecti.me
+ * @copyright  2017 Khosro Nazari https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -611,7 +611,7 @@ if ($ADMIN->fulltree) {
     $name = 'theme_moove/getintouchcontent';
     $title = get_string('getintouchcontent', 'theme_moove');
     $description = get_string('getintouchcontentdesc', 'theme_moove');
-    $default = 'Conecti.me';
+    $default = 'tahsilyar.co';
     $setting = new admin_setting_configtextarea($name, $title, $description, $default);
     $setting->set_updatedcallback('theme_reset_all_caches');
     $page->add($setting);
@@ -620,7 +620,7 @@ if ($ADMIN->fulltree) {
     $name = 'theme_moove/website';
     $title = get_string('website', 'theme_moove');
     $description = get_string('websitedesc', 'theme_moove');
-    $default = 'http://conecti.me';
+    $default = 'https://tahsilyar.co';
     $setting = new admin_setting_configtext($name, $title, $description, $default);
     $setting->set_updatedcallback('theme_reset_all_caches');
     $page->add($setting);
@@ -638,7 +638,7 @@ if ($ADMIN->fulltree) {
     $name = 'theme_moove/mail';
     $title = get_string('mail', 'theme_moove');
     $description = get_string('maildesc', 'theme_moove');
-    $default = 'willianmano@conecti.me';
+    $default = 'lms@tahsilyar.co';
     $setting = new admin_setting_configtext($name, $title, $description, $default);
     $setting->set_updatedcallback('theme_reset_all_caches');
     $page->add($setting);

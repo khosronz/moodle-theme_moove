@@ -18,7 +18,7 @@
  * Overriden course topics format renderer.
  *
  * @package    theme_moove
- * @copyright  2018 Willian Mano - http://conecti.me
+ * @copyright  2018 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -34,7 +34,7 @@ defined('MOODLE_INTERNAL') || die();
 /**
  * The moove theme does not store any data.
  *
- * @copyright  2018 Willian Mano - http://conecti.me
+ * @copyright  2018 Khosro Nazari - https://tahsilyar.co
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class provider implements

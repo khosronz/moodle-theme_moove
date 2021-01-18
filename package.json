@@ -4,8 +4,8 @@
   "description": "Grunt tasks for Moodle MOOVE theme.",
   "main": "Gruntfile.js",
   "author": {
-    "name": "Willian Mano",
-    "url": "http://www.conecti.me"
+    "name": "Khosro Nazari",
+    "url": "https://tahsilyar.co"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
