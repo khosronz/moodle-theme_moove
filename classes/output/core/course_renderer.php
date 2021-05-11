@@ -334,8 +334,7 @@ class course_renderer extends \core_course_renderer {
 
         $content .= html_writer::tag('h4', $coursenamelink, ['class' => 'card-title']);
 
-        $content .= $this->course_summary($chelper, $course);
-
+//        $content .= $this->course_summary($chelper, $course);
         $content .= html_writer::end_tag('div');
 
         return $content;

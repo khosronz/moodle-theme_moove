@@ -90,7 +90,8 @@
 
 #page-footer {
     background-color: $m-moodle-color;
-    text-align: center;
+
+    background-color: #304296;    text-align: center;
     min-height: inherit;
     color: #fff;
 
@@ -121,6 +122,10 @@
 
         p {
             margin-bottom: 0;
+        }
+
+        .heart-color {
+            color: #FF1D48;
         }
     }
 }

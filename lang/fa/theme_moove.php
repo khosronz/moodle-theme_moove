@@ -161,8 +161,8 @@ $string['slidercaptiondesc'] = 'عنوان را برای اسلاید خود ا�
 
 $string['numbersfrontpage'] = 'نمایش شماره های سایت در صفحه اول';
 $string['numbersfrontpagedesc'] = 'در صورت فعال بودن ، تعداد کاربران فعال ، دوره ها و فعالیت ها را در صفحه اول نمایش دهید.';
-$string['frontpagenumbersome'] = 'مقداری';
-$string['frontpagenumbernumbers'] = 'شماره';
+$string['frontpagenumbersome'] = 'داده های';
+$string['frontpagenumbernumbers'] = 'آماری';
 $string['frontpagenumberusers'] = 'کاربران';
 $string['frontpagenumbercourses'] = 'دوره های آموزشی';
 $string['frontpagenumberactivities'] = 'فعالیت ها';
